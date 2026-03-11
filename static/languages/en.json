@@ -1,13 +1,12 @@
 {
-  "title": "Which EU countries offer the best employment prospects?",
-  "subtitle": "Future employment growth in these countries in 2022-2035 is estimated at 5.6%.",
+  "title": "How many people are employed in the industry?",
+  "subtitle": "In 2024, the manufacturing sector employed 18.3% of people's working population.",
   "textNoteDescription": "Note",
-  "textNote": "sdchdc",
+  "textNote": "Persons employed by NACE Rev. 2 activity in manufacturing.",
   "textSourceDescription": "Source",
-  "textSource": "sdcshdc",
+  "textSource": "Eurostat (2026)",
   "linkDataAccessDescription": "Access the data",
-  "extraInfo_DE": "Germany Accelerates Renewable Energy Rollout, Targets 80% Clean Power by 2030",
-  "extraInfo_FR": "French Parliament Approves Major Immigration Reform Bill Amid Nationwide Protests",
   "legend1": "No data available",
+  "customUnitLabel": "of total employees",
   "tooltipExtraInfoLabel": "Click here"
 }
